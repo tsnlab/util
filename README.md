@@ -1,2 +1,3 @@
 # util
-utilities
+
+connx\_relicense.sh - CONNX relicensing utiltiy
